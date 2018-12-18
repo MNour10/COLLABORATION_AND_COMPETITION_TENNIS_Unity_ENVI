@@ -39,6 +39,8 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 3. Run Tennis.ipynb and read the report
 
+4. the best achieved weights have been saved in the .pth files
+
 ### Instructions
 
 Follow the instructions in `Tennis.ipynb` to get started with training your own agent!  
